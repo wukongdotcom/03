@@ -6,4 +6,4 @@ jules, carter, earth
 how do you put an image in here
 
 
-<img src="https://media.discordapp.net/attachments/1229118408688406679/1454163076256366657/image.png?ex=69501666&amp;is=694ec4e6&amp;hm=c2dc861f8cf06e321b5e8598f3d4c165a15cb5a877dce55a0a59fc849f1a0b86&amp;=&amp;format=webp&amp;quality=lossless&amp;width=679&amp;height=503" alt="Image"/>
+https://media.discordapp.net/attachments/1229118408688406679/1454163076256366657/image.png?ex=695e96e6&is=695d4566&hm=b402b4fed10d828723c2abe90873119f47323459d1681b25081638aa68ee2108&=&format=webp&quality=lossless&width=679&height=503
